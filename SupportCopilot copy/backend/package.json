@@ -20,8 +20,3 @@
     "nodemon": "^3.1.4"
   }
 }
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
-}
